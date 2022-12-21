@@ -60,7 +60,7 @@ class ProfileScreen extends StatelessWidget {
           ),
           AppSize.sv_10,
           Text(
-            'Abdulrahman Hatem',
+            'Mohamed Zaghloul',
             style:
                 Theme.of(context).textTheme.headline2!.copyWith(fontSize: 23.0),
           ),
